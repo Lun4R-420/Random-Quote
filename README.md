@@ -32,4 +32,4 @@
 
 ## Author
 
-- GitHub [@Lun4R-420](https://{github.com/Lun4R-420})
+- GitHub [@Lun4R-420](https://github.com/Lun4R-420)
