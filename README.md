@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://lun4r-420.github.io/Random-Quote/}">
+    <a href="https://lun4r-420.github.io/Random-Quote/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://github.com/Lun4R-420/Random-Quote}">
+    <a href="https://github.com/Lun4R-420/Random-Quote">
       Solution
     </a>
     <span> | </span>
