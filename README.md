@@ -13,7 +13,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="{https://github.com/Lun4R-420/Random-Quote.git}">
+    <a href="{https://github.com/Lun4R-420/Random-Quote}">
       Solution
     </a>
     <span> | </span>
