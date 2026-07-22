@@ -32,5 +32,4 @@
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@Lun4R-420](https://{github.com/Lun4R-420})
